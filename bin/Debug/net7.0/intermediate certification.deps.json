@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "intermediate certification/1.0.0": {
+        "runtime": {
+          "intermediate certification.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "intermediate certification/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
